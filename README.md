@@ -21,12 +21,13 @@ An AI-powered web application that allows users to upload PDF files and ask natu
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots if available)*
 
-| Upload Page                                                                         | Question Page |
-|-------------                                                                        |---------------|
-| ![upload](https://github.com/Varungsin35/PDF-QnA/blob/master/upload.png?raw=truei) 
-|[ask]((https://github.com/Varungsin35/PDF-QnA/blob/master/ask.png?raw=true)) |
+
+| Upload Page                                                                         
+| ![upload](https://github.com/Varungsin35/PDF-QnA/blob/master/upload.png?raw=true) 
+|--------------------------------------------------------------------------------------------------|
+| Question Page 
+|![ask]((https://github.com/Varungsin35/PDF-QnA/blob/master/ask.png?raw=true)) |
 
 ---
 
