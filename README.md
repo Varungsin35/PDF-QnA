@@ -23,7 +23,7 @@ An AI-powered web application that allows users to upload PDF files and ask natu
 
 
 
-| Upload Page |
+| Upload Page 
 | ![upload](https://github.com/Varungsin35/PDF-QnA/blob/master/upload.png?raw=true) 
 | question 
 | ![ask](https://github.com/Varungsin35/PDF-QnA/blob/master/ask.png?raw=true) |
